@@ -1,1 +1,1 @@
-# ws.makebot.kro.kr
+# makebotws.kro.kr
